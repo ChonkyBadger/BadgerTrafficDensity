@@ -8,4 +8,3 @@ Basic FiveM client script to control Ped and Traffic density.
 
 ## Links
 - [discord](https://discord.gg/TFCQE8d)
-test
