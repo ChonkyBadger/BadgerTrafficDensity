@@ -12,8 +12,6 @@ namespace BadgerTrafficDensity
         float vehFrequency;
 
         string jsonConfig = LoadResourceFile("BadgerTrafficDensity", "config/config.json");
-        
-        Newtonsoft.Json.JsonObjectAttribute json = new Newtonsoft.Json.JsonObjectAttribute();
 
         public BadgerTrafficDensity()
         {
